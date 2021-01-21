@@ -17,7 +17,7 @@ The user is able to:
 * View multiple the combined weight of multiple exercises on the stats page.
  
 ## Demo:
-.[video]
+[video of the application](https://drive.google.com/file/d/1xs1aL9COAul6F2nkIAleX4nmAZ6bPaps/view?usp=sharing)
 
 ## Application
 The application can be accessed through the following link:
